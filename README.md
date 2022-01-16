@@ -2,8 +2,6 @@
 
 A simple discord bot that helps you manage your server by providing useful commands like playing music or deleting text messages.
 
-You can find the tutorial about building a discord music bot [here](https://gabrieltanner.org/blog/dicord-music-bot). 
-
 ## Table of content
 
 * [Requirements](#requirements)
@@ -55,19 +53,19 @@ node index.js
 
 ```bash
 # Build the image
-docker build --tag Sunrise .
+docker build --tag Sunrise
 
 # Run the image
 docker run -d Sunrise
 ```
 
-## Deploying commands
+## Starting commands
 
-Before you can use the bots slash command you first need to add them to your Discord server. You can use the `!deploy` command to do so.
+Before you can use the bots slash command you first need to add them to your Discord server. You can use the `!start` command to do so.
 
 <img src="./assets/deploy-commands.png">
 
-After deploying the commands you should be able to see and access them by typing a slash:
+After starting the commands you should be able to see and access them by typing a slash:
 
 <img src="./assets/commands.png">
 
