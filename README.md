@@ -31,7 +31,7 @@ First, make sure you have all the required tools installed on your local machine
 git clone https://github.com/Myrchuk21/Sunrise.git
 
 # Enter into the directory
-cd discord-bot/
+cd Sunrise/
 
 # Install the dependencies
 npm install
@@ -55,10 +55,10 @@ node index.js
 
 ```bash
 # Build the image
-docker build --tag discordbot .
+docker build --tag Sunrise .
 
 # Run the image
-docker run -d discordbot
+docker run -d Sunrise
 ```
 
 ## Deploying commands
