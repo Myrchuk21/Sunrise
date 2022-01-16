@@ -63,7 +63,7 @@ docker run -d Sunrise
 
 Before you can use the bots slash command you first need to add them to your Discord server. You can use the `!start` command to do so.
 
-<img src="./assets/start-commands.png">
+<img src="./assets/start-commands.PNG">
 
 After starting the commands you should be able to see and access them by typing a slash:
 
