@@ -1,0 +1,2 @@
+# Sunrise
+Discord music bot
