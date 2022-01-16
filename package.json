@@ -1,7 +1,10 @@
 {
   "name": "sunrise",
   "version": "1.0.0",
-  "repository": "https://github.com/Myrchuk21/Sunrise.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myrchuk21/Sunrise.git"
+  },
   "description": "A simple discord music bot",
   "main": "index.js",
   "scripts": {
@@ -26,5 +29,9 @@
   },
   "devDependencies": {
     "prettier": "2.4.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Myrchuk21/Sunrise/issues"
+  },
+  "homepage": "https://github.com/Myrchuk21/Sunrise#readme"
 }
