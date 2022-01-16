@@ -145,10 +145,10 @@ You are welcome to contribute by submitting a Pull Request to the repository.
 [Discord server](https://discord.gg/ZFEkqxe3Bx)
 
 ## Author
-##VK 2
-<a href="https://vk.com/ababakaev" target="_blank"><img src="https://pngimg.com/uploads/vkontakte/vkontakte_PNG15.png" alt="My vkontakte in case of misunderstandings" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-##VK 2
-<a href="https://vk.com/myrchuk21" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/nature-animals-1/100/nature-animal-cat-512.png" alt="My vkontakte in case of misunderstandings" style="height: 174px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+* <a href="https://vk.com/ababakaev" target="_blank"><img src="https://pngimg.com/uploads/vkontakte/vkontakte_PNG15.png" alt="My vkontakte in case of misunderstandings" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+* <a href="https://vk.com/myrchuk21" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/nature-animals-1/100/nature-animal-cat-512.png" alt="My vkontakte in case of misunderstandings" style="height: 174px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## License
 
