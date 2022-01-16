@@ -63,11 +63,11 @@ docker run -d Sunrise
 
 Before you can use the bots slash command you first need to add them to your Discord server. You can use the `!start` command to do so.
 
-<img src="./assets/deploy-commandsS.png">
+<img src="./assets/deploy-commands.png">
 
 After starting the commands you should be able to see and access them by typing a slash:
 
-<img src="./assets/commandsS.png">
+<img src="./assets/commands.png">
 
 ## Features & Commands
 
@@ -118,7 +118,7 @@ After starting the commands you should be able to see and access them by typing 
 * Ban a player (/ban USER)
 * Delete the latest chat messages (/purge NUM_OF_MESSAGES)
 
-<img src="./assets/playing_songS.png">
+<img src="./assets/playing_song.png">
 
 ## Common errors
 
